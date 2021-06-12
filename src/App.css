@@ -1,7 +1,14 @@
+.wrapper {
+  padding: 20px;
+}
+
+.navbar {
+  padding: 1em;
+}
+
 .App {
   text-align: center;
 }
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
